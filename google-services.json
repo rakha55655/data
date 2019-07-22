@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60282430613",
+    "firebase_url": "https://fb-video-downloader-4a947.firebaseio.com",
+    "project_id": "fb-video-downloader-4a947",
+    "storage_bucket": "fb-video-downloader-4a947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60282430613:android:aec70413fb004a62",
+        "android_client_info": {
+          "package_name": "com.zain786.fbvideosdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60282430613-iulricvah2nkokrpnblo6ec9nadrepqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxUcggfHyS_sJnMx2lan2lnfCVPdZeBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60282430613-iulricvah2nkokrpnblo6ec9nadrepqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
